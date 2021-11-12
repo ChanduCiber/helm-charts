@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-echo Namespace = "$1"
-echo Releasename = "$2"
+echo Namespace = "daman"
+echo Releasename = "daman_1.0"
 echo "----------------------Installing pages----------------------------------"
 
 
