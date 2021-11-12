@@ -1,0 +1,6 @@
+dependencies:
+- name: pages
+  repository: http://localhost:8080
+  version: 1.0.0
+digest: sha256:35a2c444a44d6affc7ed38d88153c7efe2f86764e48481fa5d37a17d60470cfa
+generated: "2021-11-12T07:17:27.017616634Z"
